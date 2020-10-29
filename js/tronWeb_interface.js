@@ -1,4 +1,4 @@
-var contractAddr = "TMbtaxgjAqEwp6Z6UyGw9mctE4A9TDRFk7";
+var contractAddr = "TKq7QmFCNG78Ey5Qa4cYdKNCznMDQbkN4B";
 var gooContract;
 
 function getGameInfo(callback){
